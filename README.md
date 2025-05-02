@@ -27,16 +27,17 @@ The project was deployed on a full-stack website with the following features:
   - Originated the idea and led project development
   - Designed the AI model architecture and sentiment analysis pipeline
   - Validated the model’s improvement in empathetic responses
-  - Integrated psychological profiling and journaling logic
   - Collaborated on backend API integration and testing
 
 - **Kristi**
   - Developed the entire frontend experience
+  - Crafted the about-user form at the beginning of the website
   - Designed and implemented the journaling and mood tracking UI
   - Created an intuitive and clean user experience
 
 - **Kity**
   - Implemented the backend infrastructure and API logic
+  - Ensured sound backend logic to handle communication between front-end and the original model 
   - Worked with Micah to ensure smooth frontend-backend communication
 
 - **Renu**
@@ -56,7 +57,7 @@ cd Clinical_Translations_Final_Project
 
 ### 2. Set Up Your Environment
 
-You must create a `.env` file in the root of the backend project with your [OpenAI API key](https://platform.openai.com/account/api-keys):
+You must create a `.env` file in the root of the backend project subfolder with your [OpenAI API key](https://platform.openai.com/account/api-keys):
 
 ```
 OPENAI_API_KEY=your_openai_api_key_here
@@ -67,13 +68,13 @@ OPENAI_API_KEY=your_openai_api_key_here
 Each subfolder contains a key piece of the system:
 
 - `LOCAL_DEMO (try the model yourself!)`  
-  → Run a local demo using Streamlit or CLI
+  → Run a local demo (you only need the analyzer.py, responder.py, and main.py files)
 
 - `WEBSITE DEMO (frontend + backend)`  
   → Includes full frontend (React) and backend (Flask/FastAPI) code
 
 - `AI_Emotional_Companion_code_for_report`  
-  → Contains scripts used for evaluation and model analysis
+  → Contains scripts used for evaluation and model analysis. Try exploring the about_user folder to discover the analysis of the model first-hand!
 
 ---
 
