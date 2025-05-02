@@ -1,5 +1,5 @@
 # Clinical Translations Final Project: AI Emotional Companion
-### Note to my teammates: will change name once class ends so you guys can fork this!
+### Note to my teammates: will change repo name once class ends so you guys can fork this!
 
 > **HUGE THANKS** to **Kity**, **Kristi**, and **Renu** for their incredible support in building the website and for being such a huge inspiration!!!  
 > This project was originally created for the **AI Agents Competition** hosted by the **CMU Data Science Club** .
