@@ -2,9 +2,9 @@
 
 > **HUGE THANKS** to **Kity**, **Kristi**, and **Renu** for their incredible support in building the website and for being such a huge inspiration!!!  
 > This project was originally created for the **AI Agents Competition** hosted by the **CMU Data Science Club** .
+> > 🧠 **AI AGENTS WEEKEND — April 12–13, 2025**
 >
 >  Since this competition, I created additional validation to show that an analysis module increases an LLM's capacity for empathy and genuine connection with the user.
-> 🧠 **AI AGENTS WEEKEND — April 12–13, 2025**
 
 ---
 
